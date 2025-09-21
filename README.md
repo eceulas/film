@@ -22,4 +22,3 @@ It includes category filters, dark mode support, and a responsive design for a b
 
 ---
 💡 To run the project, simply open the `index.html` file in your browser.
-# film
